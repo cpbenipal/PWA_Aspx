@@ -1,0 +1,11 @@
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\bin\EPRPWAspx.dll.config
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\bin\EPRPWAspx.dll
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\bin\EPRPWAspx.pdb
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\bin\EPRPWAspx.xml
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.vbprojAssemblyReference.cache
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.Resources.resources
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.vbproj.GenerateResource.cache
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.vbproj.CoreCompileInputs.cache
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.dll
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.xml
+D:\Projects\Sean\EPRPWAspx\EPRPWAspx\obj\Debug\EPRPWAspx.pdb

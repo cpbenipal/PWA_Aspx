@@ -1,0 +1,101 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="EPRPWAspx.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="Manifest.ashx">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon.png">
+    <title>Employee Performance Review - PWA</title>
+    <link href="assets/css/style.css" rel="stylesheet">  
+    <script src="register-sw.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <!-- ============================================================== -->
+        <!-- Main wrapper - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        <div id="main-wrapper">
+            <!-- ============================================================== -->
+            <!-- Topbar header - style you can find in pages.scss -->
+            <!-- ============================================================== -->
+            <header class="topbar">
+                <nav class="navbar top-navbar navbar-expand-md navbar-dark">
+                    <!-- ============================================================== -->
+                    <!-- Logo -->
+                    <!-- ============================================================== -->
+                    <div class="navbar-header">
+                        EPR-PWA  
+                    </div>
+                    <!-- ============================================================== -->
+                    <!-- End Logo -->
+                    <!-- ============================================================== -->
+                    <div class="navbar-collapse">
+                        <!-- ============================================================== -->
+                        <!-- toggle and nav items -->
+                        <!-- ============================================================== -->
+                        <ul class="navbar-nav mr-auto">
+                            <!-- This is  -->
+                            <li class="nav-item hidden-sm-up"><a class="nav-link nav-toggler waves-effect waves-light"
+                                href="javascript:void(0)"><i class="ti-menu"></i></a></li>
+
+                        </ul>
+                        <ul class="navbar-nav my-lg-0">
+
+                            <!-- User profile and search -->
+                            <!-- ============================================================== -->
+                            <li class="nav-item dropdown">
+                                <div class="col-md-7 align-self-center text-right">
+                                    <div class="d-flex justify-content-end align-items-center">                                         
+                                        <a class="btn btn-success d-none d-lg-block m-l-15" href="Employees.aspx">Back</a>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <div class="page-wrapper">
+                <div class="container-fluid">                    
+                    <div class="row">
+                        <!-- Column -->
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+            <footer class="footer">
+                EPR-PWA
+            </footer>
+        </div>
+    </form>
+
+    <!-- All Jquery -->
+    <script src="assets/js/jquery-3.2.1.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="assets/js/perfect-scrollbar.jquery.min.js"></script>
+    <!--Wave Effects -->
+    <script src="assets/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="assets/js/sidebarmenu.js"></script>
+    <!--stickey kit -->
+    <script src="assets/js/sticky-kit.min.js"></script>
+    <script src="assets/js/jquery.sparkline.min.js"></script>
+    <!--Custom JavaScript -->
+    <script src="assets/js/custom.min.js"></script>
+    <!-- Date Picker Plugin JavaScript -->
+    <script src="assets/js/bootstrap-datepicker.min.js"></script>
+    <!-- Date range Plugin JavaScript -->
+    <script src="assets/js/bootstrap-timepicker.min.js"></script>
+    <script src="assets/js/daterangepicker.js"></script>
+</body>
+</html>

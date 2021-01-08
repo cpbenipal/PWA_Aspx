@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Sean\EPRPWAspx\EPRPWAspx\bin\app.publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/fonts/fontawesome-webfont.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/fonts/icomoon.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/fonts/Material-Design-Iconic-Font.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/fonts/materialdesignicons-webfont.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/fonts/Simple-Line-Icons.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/fonts/themify.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/css/sweetalert2.min.css">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/favicon.png">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/css/font-awesome.css">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/css/font-awesome.min.css">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/animated.less">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/bordered-pulled.less">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/core.less">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/fixed-width.less">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/font-awesome.less">
+      <publishTime>01/07/2021 22:10:37</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/icons.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/larger.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/list.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/mixins.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/path.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/rotated-flipped.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/screen-reader.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/stacked.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/less/variables.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/.bower.json">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/.gitignore">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/.npmignore">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/bower.json">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/css/font-awesome.css">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/css/font-awesome.min.css">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont-old.ttf">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont.eot">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont.svg">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont.ttf">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont.woff">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/fontawesome-webfont.woff2">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/fonts/FontAwesome.otf">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/HELP-US-OUT.txt">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/animated.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/bordered-pulled.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/core.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/extras.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/fixed-width.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/font-awesome.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/icons.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/larger.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/list.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/mixins.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/path.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/rotated-flipped.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/spinning.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/stacked.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/less/variables.less">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/font-awesome.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_animated.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_bordered-pulled.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_core.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_extras.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_fixed-width.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_icons.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_larger.scss">
+      <publishTime>01/07/2021 22:10:38</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_list.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_mixins.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_path.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_rotated-flipped.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_spinning.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_stacked.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/old/scss/_variables.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/font-awesome.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_animated.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_core.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_fixed-width.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_icons.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_larger.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_list.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_mixins.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_path.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_screen-reader.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_stacked.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/font-awesome/scss/_variables.scss">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/icons/icon-128x128.png">
+      <publishTime>01/08/2021 15:24:55</publishTime>
+    </File>
+    <File Include="assets/icons/icon-144x144.png">
+      <publishTime>01/08/2021 15:24:55</publishTime>
+    </File>
+    <File Include="assets/icons/icon-152x152.png">
+      <publishTime>01/08/2021 15:24:55</publishTime>
+    </File>
+    <File Include="assets/icons/icon-192x192.png">
+      <publishTime>01/08/2021 15:24:55</publishTime>
+    </File>
+    <File Include="assets/icons/icon-384x384.png">
+      <publishTime>01/08/2021 15:24:56</publishTime>
+    </File>
+    <File Include="assets/icons/icon-512x512.png">
+      <publishTime>01/08/2021 15:24:56</publishTime>
+    </File>
+    <File Include="assets/icons/icon-72x72.png">
+      <publishTime>01/08/2021 15:24:56</publishTime>
+    </File>
+    <File Include="assets/icons/icon-96x96.png">
+      <publishTime>01/08/2021 15:24:56</publishTime>
+    </File>
+    <File Include="assets/images/background/error-bg.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/custom-select.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/eliteadmin-logo.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/eliteadmin-small-text.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/favicon.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/logo-icon.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/logo-light-icon.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/logo-light-text-old.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/logo-light-text.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/logo-text.png">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/1.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/2.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/3.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/4.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/5.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/6.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/7.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/images/users/8.jpg">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-datepicker.min.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-material-datetimepicker.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-timepicker.min.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap.min.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/commonfunctions.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/custom.min.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/daterangepicker.js">
+      <publishTime>01/07/2021 22:10:39</publishTime>
+    </File>
+    <File Include="assets/js/jquery-3.2.1.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/jquery.sparkline.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/moment.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/perfect-scrollbar.jquery.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/popper.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/sidebarmenu.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/sticky-kit.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/sweet-alert.init.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/sweetalert2.all.min.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/js/waves.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/fonts/themify.eot">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/fonts/themify.svg">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/fonts/themify.ttf">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/fonts/themify.woff">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/ie7/ie7.css">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/ie7/ie7.js">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/themify-icons.css">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="assets/themify-icons/themify-icons.less">
+      <publishTime>01/07/2021 22:10:40</publishTime>
+    </File>
+    <File Include="bin/EPRPWAspx.dll">
+      <publishTime>01/09/2021 00:03:22</publishTime>
+    </File>
+    <File Include="bin/EPRPWAspx.pdb">
+      <publishTime>01/09/2021 00:03:22</publishTime>
+    </File>
+    <File Include="bin/EPRPWAspx.xml">
+      <publishTime>01/09/2021 00:03:22</publishTime>
+    </File>
+    <File Include="Employees.aspx">
+      <publishTime>01/08/2021 23:50:54</publishTime>
+    </File>
+    <File Include="Manifest.ashx">
+      <publishTime>01/08/2021 15:28:37</publishTime>
+    </File>
+    <File Include="manifest.txt">
+      <publishTime>01/08/2021 22:48:00</publishTime>
+    </File>
+    <File Include="offline.html">
+      <publishTime>01/08/2021 23:03:10</publishTime>
+    </File>
+    <File Include="pwa-sw.js">
+      <publishTime>01/08/2021 23:57:22</publishTime>
+    </File>
+    <File Include="Rating.aspx">
+      <publishTime>01/08/2021 22:02:25</publishTime>
+    </File>
+    <File Include="register-sw.js">
+      <publishTime>01/08/2021 22:53:54</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>01/08/2021 22:59:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/09/2021 00:03:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
